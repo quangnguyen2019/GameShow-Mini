@@ -1,0 +1,71 @@
+@Vườn quốc gia lớn nhất ở Việt Nam là ?
+#Yok Đôn
+#Cát Tiên
+#U Minh Hạ
+#U Minh Thượng
+*Yok Đôn
+@Loại cá gì sống được ở biển và ở sông, cần 4-5 năm để phát triển từ cá bột đến lúc trưởng thành ?
+#Cá hồi
+#Cá chuối
+#Cá ngừ
+#Cá đuối
+*Cá ngừ
+@Tranh Đông Hồ được vẽ trên chất liệu gì?
+#Giấy gió
+#Giấy vải
+#Giấy hoàng kim
+#Giấy lụa
+*Giấy gió
+@Ngày duy nhất trong năm ở Nam Cực mà mặt trời xuất hiện 24 giờ là ngày gì ?
+#Đông chí
+#Hạ chí
+#Xuân phân
+#Thu phân
+*Đông chí
+@Tên thật của vua Quang Trung là gì?
+#Nguyễn Công Trứ
+#Nguyễn Lữ
+#Nguyễn Nhạc
+#Nguyễn Huệ
+*Nguyễn Huệ
+@Ba Tư là tên gọi cũ của quốc gia nào?
+#Ấn Độ
+#Iran
+#Ai Cập
+#Ả Rập Xê-Út
+*Iran
+@Trong 4 nhóm máu của con người thì nhóm máu nào có thể tiếp nhận tất cả các nhómm máu còn lại?
+#A
+#B
+#AB
+#O
+*AB
+@Đại dương nào sâu nhất thế giới?
+#Ấn Độ Dương
+#Đại Tây Dương
+#Thái Bình Dương
+#Bắc Băng Dương
+*Thái Bình Dương
+@Tim người gồm bao nhiêu ngăn ?
+#1
+#2
+#3
+#4
+*4
+@Độ ẩm của không khí như thế nào thì dẫn đến hiện tượng sương mù ?
+#Cao
+#Thấp
+#Bán bão hòa
+#Bão hòa
+*Thấp@Độ ẩm của không khí như thế nào thì dẫn đến hiện tượng sương mù ? gggg
+#Cao
+#Thấp
+#Bán bão hòa
+#Bão hòa
+*Thấp
+@Đại dương nào sâu nhất thế giới? dfsfdfs
+#Ấn Độ Dương
+#Đại Tây Dương
+#Thái Bình Dương
+#Bắc Băng Dương
+*Thái Bình Dương
